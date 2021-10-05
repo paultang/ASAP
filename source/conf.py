@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'asap'
+project = 'as soon as possible'
 copyright = '2020, bill'
 author = 'bill'
 
