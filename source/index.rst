@@ -8,7 +8,11 @@ Welcome to 爱比爱拼documentation3!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Basic
+   
+   en/basic/installation
+   en/basic/esp32
+   en/basic/boards
 
 
 
