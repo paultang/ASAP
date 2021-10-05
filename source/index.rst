@@ -10,10 +10,9 @@ Welcome to 爱比0!
    :maxdepth: 2
    :caption: Basic:
    
-   installation
-   en/basic/installation
-   en/basic/esp32
-   en/basic/boards
+   basic/installation
+   basic/esp32
+   basic/boards
 
 
 
