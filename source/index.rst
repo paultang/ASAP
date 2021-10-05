@@ -8,7 +8,7 @@ Welcome to 爱比!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Basic
+   :caption: Basic:
    
    installation
    en/basic/installation
