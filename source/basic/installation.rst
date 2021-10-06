@@ -11,4 +11,6 @@ Installing ESP32 Add-on in Arduino IDE
 
 4: Search for ESP32 and Press install button for "ESP32 by Espressif system";
 
+.. image:: ../image/boardmanager3.png
+
 5: It should be installed after a while.
