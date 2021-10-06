@@ -11,7 +11,7 @@
    :caption: Basic:
    
    basic/installation
-   basic/esp
+   basic/devkitC
    basic/boards
 
 
