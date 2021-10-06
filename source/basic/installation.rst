@@ -5,7 +5,7 @@ Installing ESP32 Add-on in Arduino IDE
 
 2: Enter https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json into the "Additional Board Manager URLs" field as shown in the figure below. Then click "OK" button.
 
-:: image:: /image/preference.png
+.. image:: ../image/preference.png
 
 3: Open the boards Manager. Go to Tools>Board>Boards Manager...
 
