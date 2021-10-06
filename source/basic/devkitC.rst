@@ -9,4 +9,5 @@ prototyping!
 
 Wi-Fi & Bluetooth Connectivity
 -------------------------------
+
 This minimum-system development board is powered by an ESP32 module. It integrates Wi-Fi and Bluetooth functions, and provides a rich peripheral set for rapid prototyping!
