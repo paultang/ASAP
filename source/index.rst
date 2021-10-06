@@ -3,6 +3,22 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+.. raw:: html
+
+    <table style="width: 100%; margin: 20px 20px">
+        <tbody witth=100%>
+        <tr>
+            <td width=33% style="text-align: center">
+                <b><a href="/zh_CN">简体中文版</a></b>           
+            </td>
+            <td width=33% style="text-align: center">
+                <b><a href="/en">English Version</a></b>
+            </td>
+        </tr>
+        </tbody>
+    </table>
+
+
 爱比爱拼
 ================================
 
