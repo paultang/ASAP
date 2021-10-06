@@ -11,7 +11,7 @@
    :caption: Basic:
    
    basic/installation
-   basic/esp32
+   basic/esp
    basic/boards
 
 
