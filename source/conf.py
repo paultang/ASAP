@@ -17,8 +17,8 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'as soon as possible'
-copyright = '2020, bill'
+project = 'As Soon As Possible'
+copyright = '2021, bill'
 author = 'bill'
 
 # The full version, including alpha/beta/rc tags

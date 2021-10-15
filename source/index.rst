@@ -30,11 +30,3 @@ As Soon As Possible
    basic/devkitC
    basic/boards
 
-
-
-Indices and tableaas
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
