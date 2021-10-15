@@ -2,6 +2,8 @@
    sphinx-quickstart on Mon Dec 14 14:06:22 2020.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
+As Soon As Possible
+================================
 
 .. raw:: html
 
@@ -18,9 +20,6 @@
         </tbody>
     </table>
 
-
-As Soon As Possible
-================================
 
 .. toctree::
    :maxdepth: 2
