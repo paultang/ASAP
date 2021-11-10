@@ -26,6 +26,6 @@ As Soon As Possible
    :caption: Basic:
    
    basic/installation
-   basic/devkitC
+   basic/LightControlerA
    basic/boards
 
