@@ -20,6 +20,23 @@ As Soon As Possible
         </tbody>
     </table>
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Controler:
+
+   controlers/Dimmer 
+   controlers/CCT
+   controlers/RGB
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Lights
+   
+   lights/One
+   lights/Two
+   lights/RGB
+
 
 .. toctree::
    :maxdepth: 2
@@ -28,18 +45,4 @@ As Soon As Possible
    basic/installation
    basic/homespan 
    basic/DevKitC
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Controler:
-
-   controlers/Dimmer 
-
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Lights
-   
-   basic/boards
-
 
