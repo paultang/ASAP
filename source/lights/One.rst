@@ -5,6 +5,18 @@ ESP32-DevKitC is a low-footprint and entry-level development board that is part 
 This board has a rich peripheral set. The built-in ESP32 pinout is optimized for hassle-free
 prototyping!
 
+28*35
+320 PCS 40P*8S
+CRI>95
+TCLI>95
+color temperature 5600K
+White filter
+Adjustable U mount bracket
+Voltage: DC 24V
+Size: 232*200
+
+Package:
+
 
 .. image:: ../image/esp32-devkitC-v4-pinout.jpeg
 
