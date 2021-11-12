@@ -31,7 +31,7 @@ As Soon As Possible
    :maxdepth: 2
    :caption: Controler:
 
-   basic/LightControlerA
+   basic/DevKitC 
 
 
 .. toctree::
