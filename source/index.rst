@@ -26,7 +26,7 @@ As Soon As Possible
    :caption: Basic:
    
    basic/installation
-   basic/Homespan 
+   basic/homespan 
 
 .. toctree::
    :maxdepth: 2
