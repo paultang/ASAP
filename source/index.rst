@@ -38,11 +38,18 @@ As Soon As Possible
    lights/RGB
 
 
+
 .. toctree::
    :maxdepth: 2
-   :caption: Basic:
+   :caption: Example:
+   
+   example/Photographystudio
+   example/Livestudio 
+   
+.. toctree::
+   :maxdepth: 2
+   :caption: Others:
    
    basic/installation
    basic/homespan 
    basic/DevKitC
-
