@@ -9,14 +9,17 @@ prototyping!
 320 PCS 40P*8S
 CRI>95
 TCLI>95
-color temperature 5600K
-White filter
-Adjustable U mount bracket
 Voltage: DC 24V
-Size: 232*200
+Power: 56W
+color temperature: 5600K
 
-Package:
+White diffuser
+Adjustable U mount bracket
 
+.. note::
+    
+    Package:
+    Size: 232*200
 
 .. image:: ../image/esp32-devkitC-v4-pinout.jpeg
 
