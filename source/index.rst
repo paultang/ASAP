@@ -39,5 +39,7 @@ As Soon As Possible
 .. toctree::
    :maxdepth: 2
    :caption: Lights
+   
    basic/boards
+
 
