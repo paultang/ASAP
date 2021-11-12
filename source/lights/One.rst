@@ -16,7 +16,7 @@ color temperature: 5600K
 White diffuser
 Adjustable U mount bracket
 
-.. note::
+.. not::
     
     Package:
     Size: 232*200
