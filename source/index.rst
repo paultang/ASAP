@@ -26,8 +26,6 @@ As Soon As Possible
    :caption: Basic:
    
    basic/installation
-   basic/LightControlerA
-   basic/boards
 
 .. toctree::
    :maxdepth: 2
