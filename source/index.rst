@@ -26,12 +26,13 @@ As Soon As Possible
    :caption: Basic:
    
    basic/installation
+   basic/DevKitC 
 
 .. toctree::
    :maxdepth: 2
    :caption: Controler:
 
-   basic/DevKitC 
+   controlers/Dimmer 
 
 
 .. toctree::
