@@ -14,10 +14,10 @@ Power: 56W
 color temperature: 5600K
 
     White diffuser
-    
+
 Adjustable U mount bracket
 
-.. not::
+.. note::
     
     Package:
     Size: 232*200
