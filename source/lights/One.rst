@@ -13,7 +13,8 @@ Voltage: DC 24V
 Power: 56W
 color temperature: 5600K
 
-White diffuser
+    White diffuser
+    
 Adjustable U mount bracket
 
 .. not::
