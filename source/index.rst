@@ -26,7 +26,7 @@ As Soon As Possible
    :caption: Basic:
    
    basic/installation
-   basic/DevKitC 
+   basic/Homespan 
 
 .. toctree::
    :maxdepth: 2
