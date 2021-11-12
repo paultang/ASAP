@@ -29,3 +29,15 @@ As Soon As Possible
    basic/LightControlerA
    basic/boards
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Controler:
+
+   basic/LightControlerA
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Lights
+   basic/boards
+
