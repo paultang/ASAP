@@ -5,8 +5,6 @@ ESP32-DevKitC is a low-footprint and entry-level development board that is part 
 This board has a rich peripheral set. The built-in ESP32 pinout is optimized for hassle-free
 prototyping!
 
-ESP32 DevKitC Pinout
-------------------------------
 
 .. image:: ../image/esp32-devkitC-v4-pinout.jpeg
 
