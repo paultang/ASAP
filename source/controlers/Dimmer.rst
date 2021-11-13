@@ -7,7 +7,7 @@ prototyping!
 
 ESP32 DevKitC Pinout
 
-.. image:: ../image/esp32-devkitC-v4-pinout.jpeg
+.. image:: ../image/3m2p.png
 
 \** Wi-Fi & Bluetooth Connectivity **\
 
