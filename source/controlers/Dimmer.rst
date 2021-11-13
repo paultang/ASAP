@@ -5,6 +5,10 @@ ESP32-DevKitC is a low-footprint and entry-level development board that is part 
 This board has a rich peripheral set. The built-in ESP32 pinout is optimized for hassle-free
 prototyping!
 
+* Power: Total 150W
+* Input: DC 24V
+* Output: Dimmable 24V
+
 ESP32 DevKitC Pinout
 
 .. image:: ../image/3m2p.png
