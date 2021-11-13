@@ -1,13 +1,22 @@
-Cold White + Warm White Light
-===============================
+Cold White + Warm White Light 320CCT
+=====================================
 
-ESP32-DevKitC is a low-footprint and entry-level development board that is part of the ESP32 series.
-This board has a rich peripheral set. The built-in ESP32 pinout is optimized for hassle-free
-prototyping!
+320CCT light has two channels, 
+it can be controlled individually or together.
 
 
-.. image:: ../image/esp32-devkitC-v4-pinout.jpeg
+* Voltage: DC 24V
+* Power: 56W
+* LED: 320 PCS
+* CRI>95
+* TCLI>95
+* Aviation connector G16-3
+* Color temperature: 5600K and 3200K
+* U-bracket
 
-\** Wi-Fi & Bluetooth Connectivity **\
+.. image:: ../image/coldwarmcct.png
 
-This minimum-system development board is powered by an ESP32 module. It integrates Wi-Fi and Bluetooth functions, and provides a rich peripheral set for rapid prototyping!
+.. note::
+    
+   It works with our control, If you use constant Current DC ,
+make sure it is smaller than 2.5A. 
