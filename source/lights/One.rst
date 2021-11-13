@@ -18,5 +18,4 @@ prototyping!
 
 .. note::
     
-   It works with our control, If you use constant Current DC ,
-make sure it is smaller than 2.5A. 
+   It works with our control, If you use constant Current DC ,make sure it is smaller than 2.5A. 

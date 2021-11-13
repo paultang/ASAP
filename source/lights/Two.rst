@@ -19,4 +19,4 @@ it can be controlled individually or together.
 .. note::
     
    It works with our control, If you use constant Current DC ,
-make sure it is smaller than 2.5A. 
+   make sure it is smaller than 2.5A. 
