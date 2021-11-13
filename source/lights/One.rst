@@ -14,7 +14,7 @@ prototyping!
 * Color temperature: 5600K
 * U-bracket
 
-.. image:: ../image/onecolor.jpeg
+.. image:: ../image/onecolor.png
 
 .. note::
     
