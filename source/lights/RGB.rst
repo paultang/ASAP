@@ -1,9 +1,14 @@
-RGB Light
+RGB Light RGB280
 ===============================
 
-ESP32-DevKitC is a low-footprint and entry-level development board that is part of the ESP32 series.
-This board has a rich peripheral set. The built-in ESP32 pinout is optimized for hassle-free
-prototyping!
+Shared Positve with three negative
+
+
+* Voltage: DC 24V
+* Power: 50W
+* LED: 280 RGB 
+* Aviation connector G16-4
+* U-bracket
 
 
 .. image:: ../image/rgbpanel.png
