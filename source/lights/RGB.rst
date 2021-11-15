@@ -6,7 +6,7 @@ This board has a rich peripheral set. The built-in ESP32 pinout is optimized for
 prototyping!
 
 
-.. image:: ../image/esp32-devkitC-v4-pinout.jpeg
+.. image:: ../image/rgbpanel.png
 
 \** Wi-Fi & Bluetooth Connectivity **\
 
