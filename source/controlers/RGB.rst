@@ -10,7 +10,7 @@ You can use it to control 1 RGB lights at same time.
 * WIFI: 802.n
 * Output Terminal: G16-4 aviation connector
 
-.. image:: ../image/2m3p.png
+.. image:: ../image/rgbcontroler.png
 
 .. note::
 
