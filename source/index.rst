@@ -22,6 +22,13 @@ As Soon As Possible
 
 .. toctree::
    :maxdepth: 2
+   :caption: Our Service:
+   
+   custom/Design
+   custom/Manufacturing
+
+.. toctree::
+   :maxdepth: 2
    :caption: Controler:
 
    controlers/Dimmer 
@@ -46,14 +53,6 @@ As Soon As Possible
    example/Photographystudio
    example/Livestudio 
    
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Our Service:
-   
-   custom/Design
-   custom/Manufacturing
-
 .. toctree::
    :maxdepth: 2
    :caption: Others:
