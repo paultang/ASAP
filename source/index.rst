@@ -46,6 +46,14 @@ As Soon As Possible
    example/Photographystudio
    example/Livestudio 
    
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Custom Design and Manufacturing:
+   
+   custom/Design
+   custom/Manufacturing
+
 .. toctree::
    :maxdepth: 2
    :caption: Others:
