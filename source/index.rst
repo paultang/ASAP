@@ -49,7 +49,7 @@ As Soon As Possible
 
 .. toctree::
    :maxdepth: 2
-   :caption: Custom Design and Manufacturing:
+   :caption: Our Service:
    
    custom/Design
    custom/Manufacturing
