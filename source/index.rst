@@ -41,7 +41,7 @@ As Soon As Possible
 
 .. toctree::
    :maxdepth: 2
-   :caption: Example:
+   :caption: Case:
    
    example/Photographystudio
    example/Livestudio 
