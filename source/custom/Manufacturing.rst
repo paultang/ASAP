@@ -1,4 +1,4 @@
-Live Studio
+Manufacturing
 ====================
 
 ESP32-DevKitC is a low-footprint and entry-level development board that is part of the ESP32 series.
