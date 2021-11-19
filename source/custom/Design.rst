@@ -1,18 +1,24 @@
-Custom Design
+Custom Service
 ====================
 
-Electronic Engineering
+* Electronic Engineering
+* Schematic Capture and PCB Layout Design
+* Component Selection and Optimization
+* System Architecture and Optimization
+* Electronics Design Testing and Validation
+* Compliance Verification and Certification
+
+.. image:: ../image/pcblayout.png
 
 Mechanical Engineering
 
+* Design For Manufacturing and Assembly (DFMA)
+* Manufacturability/ Sustainability Assessments
+* Mechanism Design
+* Structural, Thermal and Fluid Analysis
 
-ESP32-DevKitC is a low-footprint and entry-level development board that is part of the ESP32 series.
-This board has a rich peripheral set. The built-in ESP32 pinout is optimized for hassle-free
-prototyping!
+.. image:: ../image/shell.png
 
-ESP32 DevKitC Pinout
-
-.. image:: ../image/pcblayout.png
 
 \** Wi-Fi & Bluetooth Connectivity **\
 
