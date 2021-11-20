@@ -18,7 +18,7 @@ You can use it to control 2 bi-color lights at same time.
 
         new SpanAccessory();                                                          
           new DEV_Identify("CCT1","abap.sale","as better as Possible","50W CCT LED","0.9",0);
-          new DEV_CCTLED(23,14);                                                               // Create an On/Off LED attached to pin 16
+          new DEV_CCTLED(23,14); 
                                                       
         new SpanAccessory();                                                          
           new DEV_Identify("CCT2","abap.sale","as better as Possible","50W CCT LED","0.9",0);
