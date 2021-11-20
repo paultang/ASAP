@@ -7,8 +7,7 @@ Shared Positve with three negative
 * Voltage: DC 24V
 * Power: 50W
 * LED: 280 RGB 
-* Aviation connector G16-4
-* U-bracket
+* Aviation connector: G16-4
 
 
 .. image:: ../image/rgbpanel.png
@@ -26,9 +25,9 @@ Shared Positve with three negative
 
     ::
 
-          new SpanAccessory();                                                          
-            new DEV_Identify("CCT2","abap.sale","as better as Possible","50W CCT LED","0.9",0);
-            new DEV_CCTLED(19,27); 
+        new SpanAccessory();                                                          
+          new DEV_Identify("CCT2","abap.sale","as better as Possible","50W CCT LED","0.9",0);
+          new DEV_CCTLED(19,27); 
 
     
 
