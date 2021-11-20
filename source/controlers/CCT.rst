@@ -14,6 +14,15 @@ You can use it to control 2 bi-color lights at same time.
 
 .. admonition:: Homespan code sample
 
+    Control and Status GPIO
+
+    ::
+
+        homeSpan.setControlPin(17); // set control button
+        homeSpan.setStatusPin(26); // sets LED Pin
+    
+    Two CCT light GPIO
+
     ::
 
         new SpanAccessory();                                                          

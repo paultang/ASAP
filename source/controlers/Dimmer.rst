@@ -13,6 +13,15 @@ You can use it to control at most 3 lights at same time.
 
 .. admonition:: Homespan code sample
     
+    Control and Status GPIO
+
+    ::
+
+        homeSpan.setControlPin(17); // set control button
+        homeSpan.setStatusPin(26); // sets LED Pin
+    
+    Three Lights GPIO  
+
     ::
 
         new DEV_DimmableLED(17)
