@@ -25,20 +25,15 @@ As Soon As Possible
    :caption: Our Service:
    
    custom/Engineering 
-   custom/Manufacturing
+   custom/Manufacturing 
 
 .. toctree::
    :maxdepth: 2
-   :caption: Controler:
+   :caption: Products:
 
    controlers/Dimmer 
    controlers/CCT
    controlers/RGB
-
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Lights
    
    lights/One
    lights/Two
