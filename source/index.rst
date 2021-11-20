@@ -24,7 +24,7 @@ As Soon As Possible
    :maxdepth: 2
    :caption: Our Service:
    
-   custom/Design
+   custom/Engineering 
    custom/Manufacturing
 
 .. toctree::
