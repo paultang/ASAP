@@ -34,8 +34,6 @@ As Soon As Possible
    controlers/Dimmer 
    controlers/CCT
    controlers/RGB
-   
-   Testing
 
    lights/One
    lights/Two

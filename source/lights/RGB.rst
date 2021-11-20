@@ -1,4 +1,4 @@
-RGB Light RGB280
+RGB Light
 ===============================
 
 Shared Positve with three negative

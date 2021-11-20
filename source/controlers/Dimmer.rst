@@ -1,4 +1,4 @@
-PWM Dimmer 3M2P 
+PWM Dimmer 
 ================
 PWM Dimmer works with ESP32-DevKitC. 
 You can use it to control at most 3 lights at same time.

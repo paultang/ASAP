@@ -1,4 +1,4 @@
-Cold White + Warm White Light 320CCT
+Cold + Warm White Light
 =====================================
 
 320CCT light has two channels, 
