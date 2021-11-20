@@ -28,8 +28,3 @@ You can use it to control 1 RGB lights at same time.
         new SpanAccessory();                                                          
           new DEV_Identify("CCT2","abap.sale","as better as Possible","50W CCT LED","0.9",0);
           new DEV_RgbLED(23,19,27); 
-
-.. note::
-
-    ESP32-DevKitC is a low-footprint and entry-level development board that is part of the ESP32 series.
-
