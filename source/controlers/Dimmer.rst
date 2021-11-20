@@ -13,8 +13,10 @@ You can use it to control at most 3 lights at same time.
 
 .. admonition:: Homespan code sample
     
+    Homespan is 
+    
     ::
-        new DEV_DimmableLED(17); 
+        new DEV_DimmableLED(17);
         new DEV_DimmableLED(23); 
         new DEV_DimmableLED(25); 
 
