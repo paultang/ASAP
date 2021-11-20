@@ -8,7 +8,3 @@ prototyping!
 ESP32 DevKitC Pinout
 
 .. image:: ../image/esp32-devkitC-v4-pinout.jpeg
-
-\** Wi-Fi & Bluetooth Connectivity **\
-
-This minimum-system development board is powered by an ESP32 module. It integrates Wi-Fi and Bluetooth functions, and provides a rich peripheral set for rapid prototyping!
