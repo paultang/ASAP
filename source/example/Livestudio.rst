@@ -1,7 +1,7 @@
 Live Studio
 ====================
 
-* Two Dimmer Controlers
+* Two WIFI Dimmer Controlers
 * 6 monochromatic lights
 * Home App or Home Assistant UI to control
 
