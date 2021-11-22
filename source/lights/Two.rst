@@ -1,7 +1,7 @@
 Cold + Warm White Light
 =====================================
 
-320CCT light has two channels, 
+CCT light has two channels, 
 it can be controlled individually or together.
 
 
@@ -12,7 +12,6 @@ it can be controlled individually or together.
 * TCLI>95
 * Aviation connector G16-3
 * Color temperature: 5600K and 3200K
-* U-bracket
 
 .. image:: ../image/coldwarmcct.png
 
