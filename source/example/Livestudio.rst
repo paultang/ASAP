@@ -1,14 +1,10 @@
 Live Studio
 ====================
 
-ESP32-DevKitC is a low-footprint and entry-level development board that is part of the ESP32 series.
-This board has a rich peripheral set. The built-in ESP32 pinout is optimized for hassle-free
-prototyping!
+* Two Dimmer Controlers
+* 6 monochromatic lights
+* Home App or Home Assistant UI to control
 
 ESP32 DevKitC Pinout
 
 .. image:: ../image/lighttopo.png
-
-\** Wi-Fi & Bluetooth Connectivity **\
-
-This minimum-system development board is powered by an ESP32 module. It integrates Wi-Fi and Bluetooth functions, and provides a rich peripheral set for rapid prototyping!
