@@ -1,6 +1,6 @@
 PWM Dimmer 
 ================
-PWM Dimmer works with ESP32-DevKitC board. 
+PWM Dimmer(3M2P) works with ESP32-DevKitC board. 
 You can use it to control at most 3 lights at same time.
 
 * Power: Total 150W

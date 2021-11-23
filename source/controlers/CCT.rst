@@ -1,7 +1,7 @@
 CCT Dimmer 
 =================
 
-2M3P Dimmer works with ESP32-DevKitC. 
+CCT Dimmer(2M3P) works with ESP32-DevKitC. 
 You can use it to control 2 bi-color lights at same time.
 
 * Power: Total 150W
