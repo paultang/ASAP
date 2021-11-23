@@ -1,4 +1,4 @@
-RGB controler 
+RGB Controler 
 ===============
 
 RGB controler works with ESP32-DevKitC. 
