@@ -3,7 +3,7 @@ Monochromatic Light
 
 * Voltage: DC 24V
 * Power: 56W
-* LED: 320 PCS
+* LED: 320 PCS (8S40P)
 * CRI>95
 * TCLI>95
 * Aviation connector: G12-2

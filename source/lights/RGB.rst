@@ -4,9 +4,9 @@ RGB Light
 Shared Positve with three negative
 
 
-* Voltage: DC 24V
+* Using Constant Current Controler
 * Power: 50W
-* LED: 280 RGB 
+* LED: 280 RGB (7S40P)
 * Aviation connector: G16-4
 
 
