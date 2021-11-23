@@ -3,7 +3,7 @@ Live Studio 1
 
 * Two WIFI Dimmer Controlers
 * 6 monochromatic lights
-* Home App or Home Assistant UI to control
+* IPhone Home App or Home Assistant Web to control
 
 
 .. image:: ../image/lighttopo.png
@@ -11,4 +11,8 @@ Live Studio 1
 Light Studio 2
 ====================
 
-* Two 
+* One CCT and One RGB controler
+* Two CCT Lights and One RGB Lights
+* IPhone Home App or Home Assistant Web to control
+  
+ .. image:: ../image/2lights.png 
