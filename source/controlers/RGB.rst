@@ -2,7 +2,7 @@ RGB controler
 ===============
 
 RGB controler works with ESP32-DevKitC. 
-You can use it to control 1 RGB lights at same time.
+You can use it to control 1 RGB lights.
 
 * Power: Total 150W
 * Input: DC 24V; 
